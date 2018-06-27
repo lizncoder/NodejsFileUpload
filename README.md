@@ -1,0 +1,2 @@
+# NodejsFileUpload
+这个小demo主要是利用nodejs来实现上传图片的功能。主要用到了3个依赖express,multer,fs
